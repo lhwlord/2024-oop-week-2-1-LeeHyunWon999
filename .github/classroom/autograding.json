@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "test1",
+      "setup": "javac 2_1.java",
+      "run": "java 2_1",
+      "input": "10\r\n",
+      "output": "10.0 miles is 16.0 kilometers",
+      "comparison": "included",
+      "timeout": 2,
+      "points": null
+    }
+  ]
+}
